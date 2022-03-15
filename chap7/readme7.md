@@ -1,6 +1,6 @@
 Chap.7 - Les types construits.
 
-***dic_velos***
+***Correction dico 2022 - Partie pratique***
 
 https://mybinder.org/v2/gh/bjailletfr/NSI1ERE/HEAD?labpath=%2Fchap7%2Fchap_7_dic_velos.ipynb
 
